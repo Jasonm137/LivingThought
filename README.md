@@ -1,5 +1,13 @@
 # Theory of Living Thought: A Theory of Life, Soul, and Unity
 
+## Overview
+
+The Theory of Living Thought Storage and Analysis System (TLTSAS) represents a comprehensive framework designed to uncover and elucidate the interconnectedness and reality of everything, using a foundational approach grounded in the core fields of human knowledge. By sorting knowledge from the past, present, and future, the theory illuminates critical aspects of human existence, the nature of higher-level thought processes, and ultimate goals. It posits that learning across diverse disciplines equips individuals with unique yet interconnected skills, categorized into three realms: social, natural, and spiritual. These realms contribute to understanding the structure, qualities, and trajectory of entities, providing a holistic view of the universe, society, and individual consciousness.
+
+## Purpose
+
+TLTSAS seeks to explore the intricate links between life, soul, and unity, leveraging basic and core knowledge areas to categorize and interpret human knowledge and its evolution. This endeavor aims to reveal key human features and potential catalysts for higher-level thoughts and objectives, advocating for an integrated approach to learning that spans social, natural, and spiritual domains.
+
 ## Principles of Living Thought
 
 1. **Principle of Knowledge**:
