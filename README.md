@@ -6,7 +6,7 @@ The Theory of Living Thought Storage and Analysis System (TLTSAS) represents a c
 
 ## Purpose
 
-TLTSAS seeks to explore the intricate links between life, soul, and unity, leveraging basic and core knowledge areas to categorize and interpret human knowledge and its evolution. This endeavor aims to reveal key human features and potential catalysts for higher-level thoughts and objectives, advocating for an integrated approach to learning that spans social, natural, and spiritual domains.
+The theory tries to find and explain the links and reality of everything. It uses the most basic and core fields of human knowledge to sort past, present, and future knowledge. This sorting shows important features of humans, and what may cause higher-level thought and goals. Learning different subjects gives people skills to use and control these features. These skills are different, but related, and they belong to 3 realms, the social, the natural, and the spiritual. The three parts of each realm work together to make three parts of anything, its structure, its qualities, and its path. The theory only works for entities. The theory has three kinds of entities as examples.
 
 ## Principles of Living Thought
 
