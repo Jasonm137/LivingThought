@@ -6,9 +6,13 @@ The Theory of Living Thought Storage and Analysis System (TLTSAS) represents a c
 
 ## Purpose
 
-The theory tries to find and explain the links and reality of everything. It uses the most basic and core fields of human knowledge to sort past, present, and future knowledge. This sorting shows important features of humans, and what may cause higher-level thought and goals. Learning different subjects gives people skills to use and control these features. These skills are different, but related, and they belong to 3 realms, the social, the natural, and the spiritual. The three parts of each realm work together to make three parts of anything, its structure, its qualities, and its path. The theory only works for entities. The theory has three kinds of entities as examples.
+The Theory of Living Thought serves as a multi-faceted and detailed analysis of our known world and our individual self. It takes away from both the Theory of Knowledge and modern contemporary academic categorization.  The theory finds similarities between past, present, and incoming future knowledge. The Theory of Living Thought goes beyond a tool for analysis to become the core theory in which individuals can live by. By analyzing oneself, one has the ability to easily find where they can improve upon as well as what next steps. Learning different subjects gives people skills to use and control these features. These skills are different, but related, and they belong the social, the natural, and the spiritual realms. The three parts of each realm work together to make three parts of anything, its structure, its qualities, and its path.
+
+Note, an Informal and an Formal Essay will be linked on this page in the following 2 days.
 
 ## Principles of Living Thought
+
+The Principles of Living Thought is a set of rules in which each entity that will be analyzed must follow to be valid. The principle of Knowledge ensures that the entity being studied can utilize the multifaceted academic. The Principle of Life ensures that the entity is constantly changing and growing in reflection to the environment it is in. Lastly, the principle of soul ensures that the entity has a clear purpose and goal in mind.
 
 1. **Principle of Knowledge**:
    - **Complexity**: Acknowledges the intricate nature of entities and their interactions within the universe.
@@ -26,6 +30,8 @@ The theory tries to find and explain the links and reality of everything. It use
    - **Contribution**: Stresses the importance of each entity's role and impact within the larger system.
 
 ## Fundamentals of Living Thought
+
+The following is the very foundation and basics in which the theory relies on, using the field, and its subsequent skill to help our understanding and impact on entities. The fundamental fields are the essential foundation in which the theory is build on. They are a sent of six rules used for analysis and understanding as well as for a clear guidance on what the future has in store. They serve as the most important and essential components or materials that entities are built upon.
 
 1. **Mathematics – Explanation**: Lays the groundwork for logical reasoning and the structured analysis of entities.
    - **Foundational Mathematics**: Basic mathematical concepts that form the basis of more complex theories.
@@ -59,6 +65,8 @@ The theory tries to find and explain the links and reality of everything. It use
 
 ## Pillars of Living Thought
 
+The following are the building blocks of each of the entities, they are the pillars of any entity. Engineering represents the sector that solves problems. Healthcare and Environmental sciences represent the sector that helps fixes and improves. Research represents that which finds new information and creation. Business serves as the managing sector. Law and Political Science represents the limits and bounding sectors of an entity. The Education serves as the sector for renewing and sustaining the entity.
+
 1. **Applied MNT (Mathematics, Natural Science, and Technology)**: Represents the application of theoretical knowledge to practical challenges.
    - **Engineering**: The application of scientific principles to design and build machinery, structures, and other items.
    - **Healthcare/Environmental Science**: Fields focused on improving health and understanding the natural environment.
@@ -70,6 +78,8 @@ The theory tries to find and explain the links and reality of everything. It use
    - **Education**: The process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits.
 
 ## Competencies of Living Thought
+
+The following are the attributes of all entities that they might have or contain. The following are the qualities that help any entity improve, sustain, and retain the integrity of the entity for its continuous improvement and for a longer, more successful entity lifetime.
 
 1. **Intellectual Skills**: Essential for critical analysis, problem-solving, and the creative interpretation of information.
    - **Critical and Creative Thinking**: The ability to think in a disciplined manner, combining logic and creativity.
@@ -85,6 +95,8 @@ The theory tries to find and explain the links and reality of everything. It use
 
 ## Processes of Living Thought
 
+The following are the stages that each entity will go through. The process showcases a step by step process in which all entities go through. From the developmental stage to the maturity stage of any entity can be seen here, regardless of which field it comes from.
+
 1. **Foundational Stage**: This initial stage focuses on building a solid base of knowledge and understanding in the diverse disciplines that underpin the theory.
 2. **Development Stage**: Here, individuals begin to deepen their understanding, applying foundational knowledge to explore more complex concepts and relationships.
 3. **Professional Stage**: At this point, the emphasis shifts to applying the acquired knowledge in professional settings, solving real-world problems.
@@ -94,6 +106,12 @@ The theory tries to find and explain the links and reality of everything. It use
 
 ## Manifestation of Living Thought
 
+The Triad of entities that embody a holistic understanding of the world in which all other entities will fall under. The Manifestation is three entities that go beyond and above all other entities in which all others fall under. These entities are the largest most mysterious, yet ones that everyone, every moment, relies on.
+
 - **Society and Civilization**: Encompasses the collective social structures, cultures, and institutions that define human communities, highlighting the complexity of social interactions and the evolution of communal values.
 - **Individual and Consciousness**: Explores the inner workings of the human mind and spirit, examining the nature of personal identity, awareness, and the quest for meaning.
 - **Life and the Universe**: Delves into the fundamental principles that govern living organisms and the cosmos, seeking to understand the origins, evolution, and interconnectedness of all forms of existence.
+
+## Conclusion
+
+The Theory of Living Thought represents a comprehensive framework that transcends traditional academic disciplines, offering a holistic perspective on existence, knowledge, and personal growth. It blends principles from various fields to guide individuals in understanding themselves and the world around them, advocating for a balanced development across intellectual, survival, and professional realms. This theory emphasizes the interconnectedness of life, encouraging a reflective and purpose-driven approach to learning and living. By fostering critical thinking, adaptability, and leadership, it aims to equip individuals with the tools necessary for continuous improvement and impactful contributions to society. In essence, the Theory of Living Thought serves as a philosophical compass for navigating the complexities of life, urging us towards a more integrated, conscious, and fulfilling existence.
